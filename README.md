@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Check out and subscribe to my youtube channel [here](https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w/)
 
 <!--
 **extremecodetv/extremecodetv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
