@@ -23,9 +23,9 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 </table>
 </p>
 
-<br /><br />
+<br />
 
-<p align="center">
+<p>
   <a href="https://www.youtube.com/extremecode"><img src="https://img.shields.io/badge/-ExtremeCode-5194f0?style=flat-square&logo=Youtube" /></a>
   <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=extremecodetv.visitor-badge&color=5194f0" />
