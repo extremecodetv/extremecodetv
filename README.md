@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
 
-My name is Artem and I'm a backend software engineer. I'm from Russia, living in Novosibirsk and currently working at startup [Slidepage](https://slide.page/). 
+My name is Artem and I'm a backend software engineer. I'm from Russia, living in ❄Novosibirsk and currently working at startup [Slidepage](https://slide.page/). 
 
 ### 📺 Channel
 
