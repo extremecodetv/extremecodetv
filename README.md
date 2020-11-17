@@ -1,9 +1,3 @@
-<p align="right">
-  <a href="https://www.youtube.com/extremecode"><img src="https://img.shields.io/badge/-ExtremeCode-5194f0?style=flat-square&logo=Youtube" /></a>
-  <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat&logo=gmail&logoColor=white&color=5194f0" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=extremecodetv.visitor-badge&color=5194f0" />
-</p>
-
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
 
 My name is Artem and I'm a backend software engineer. I'm from Russia, living in Novosibirsk and currently working at startup [Slidepage](https://slide.page/). 
@@ -27,4 +21,12 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremecodetv&hide=html&layout=compact&hide_border=true" /></td>
   </tr>   
 </table>
+</p>
+
+<br /><br />
+
+<p align="center">
+  <a href="https://www.youtube.com/extremecode"><img src="https://img.shields.io/badge/-ExtremeCode-5194f0?style=flat-square&logo=Youtube" /></a>
+  <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat&logo=gmail&logoColor=white&color=5194f0" /></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=extremecodetv.visitor-badge&color=5194f0" />
 </p>
