@@ -8,10 +8,10 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -27,6 +27,6 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 
 <p align="center">
   <a href="https://www.youtube.com/extremecode"><img src="https://img.shields.io/badge/-ExtremeCode-5194f0?style=flat-square&logo=Youtube" /></a>
-  <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat&logo=gmail&logoColor=white&color=5194f0" /></a>
+  <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=extremecodetv.visitor-badge&color=5194f0" />
 </p>
