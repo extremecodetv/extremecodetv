@@ -17,8 +17,8 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=extremecodetv&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremecodetv&hide=html&layout=compact&hide_border=true&hide_title=true" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=extremecodetv&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremecodetv&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark" /></td>
   </tr>   
 </table>
 </p>
