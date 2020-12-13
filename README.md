@@ -8,7 +8,7 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
@@ -17,8 +17,8 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=extremecodetv&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremecodetv&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=extremecodetv&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=110d17" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremecodetv&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=110d17" /></td>
   </tr>   
 </table>
 </p>
